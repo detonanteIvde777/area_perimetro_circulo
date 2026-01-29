@@ -10,7 +10,7 @@ programa en Python para calcular el area y el perimetro de un circulo dado el va
 - a: area del circulo
 - p: perimetro del circulo
 
-$a = \pi*r^r$
+$a = \pi*r^2$
 
 $p = 2*\pi*r$
 
